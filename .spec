@@ -1,0 +1,1 @@
+pyinstaller --name Calculator --onefile --windowed calc.py
